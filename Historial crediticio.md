@@ -1,0 +1,2 @@
+Es una métrica que poseen las instituciones financiaras sobre nosotros para saber qué tan confiables somos con el dinero. 
+Si no cumplimos con nuestras obligaciones financieras, los bancos no nos van a querer dar créditos o préstamos, o lo harán con un interés mayor. Si cumplimos con nuestras obligaciones financieras, los bancos nos van a otorgar préstamos más fácil y con menores intereses.

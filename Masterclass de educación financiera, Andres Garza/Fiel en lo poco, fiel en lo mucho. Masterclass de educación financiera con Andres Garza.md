@@ -1,3 +1,5 @@
+
+# Fiel en lo poco, fiel en lo mucho. Masterclass de educación financiera con Andrés Garza
 #Resumen #Conferencia #DesarrolloPersonal 
 # Puntos destacados
 - Tu situación actual **no es** tu destino final.
@@ -21,7 +23,8 @@ Es inevitable cometer errores al aprender a manejar el dinero, mas los errores q
 ¿Para qué hago esto si no tiene impacto ahora? Los hábitos que creamos ahora, definen nuestro futuro.
 
 ## Definición del éxito
-Creemos que el éxito se suele atribuir a una sola acción; no obstante, se debe a todo lo que hubo detrás para que dicha acción sucediera. Esto es similar a lo que mencionó James Clear en su libro [[Resumen - Hábitos Atómicos, James Clear|Hábitos Atómicos]]. ![[Resumen - Hábitos Atómicos, James Clear#^a975be]]
+Creemos que el éxito se suele atribuir a una sola acción; no obstante, se debe a todo lo que hubo detrás para que dicha acción sucediera. Esto es similar a lo que mencionó James Clear en su libro [Hábitos Atómicos](https://github.com/AntonioLive8166GameDev/Resumen-de-Habitos-Atomicos/blob/main/Resumen.md).
+> Los grandes hitos con frecuencia son el resultado de muchos acontecimientos previos que acumulan el potencial requerido para desencadenar un gran cambio.
 
 ## ¿Qué es el dinero?
 El **dinero** es un *intercambio de valor*. El dinero simplemente se transmite.
@@ -34,8 +37,8 @@ Te pagan por lo que ayudas con lo que sabes; *ergo*, si se continúa con el apre
 
 
 # Fundamentos y estrategias
-	## El presupuesto
-El **presupuesto** es un plan para ordenar tu dinero ***==antes de recibirlo==***.
+## El presupuesto
+El **presupuesto** es un plan para ordenar tu dinero <mark>antes de recibirlo</mark>.
 
 > Todo el mundo tiene un plan para sacarte dinero, y si tú no tienes un plan para mantenerlo, eres parte del plan de alguien más.
 
@@ -45,9 +48,9 @@ El **presupuesto** es un plan para ordenar tu dinero ***==antes de recibirlo==**
 	
 2. ***Compara*** tus **ingresos** y **egresos** e identifica tu balanza ($ingresos - egresos$). 
 	Existen tres posibles escenarios:
-	1. Tus ingresos son menores que tus gastos. *==Te estás endeudando==*.
+	1. Tus ingresos son menores que tus gastos. <mark>Te estás endeudando</mark>.
 	2. Tus ingresos y gastos son iguales.
-	3. Tus ingresos son mayores que tus gastos. **==El estado financiero adecuado==**.
+	3. Tus ingresos son mayores que tus gastos. <mark>El estado financiero adecuado</mark>.
 	
 3. ***Clasifica y prioriza*** tus gastos.
 	Los gastos se clasifican en tres tipos:
@@ -72,13 +75,12 @@ El **presupuesto** es un plan para ordenar tu dinero ***==antes de recibirlo==**
 - **Total A-B-C**: La diferencia entre tus ingresos totales (A) y la suma del total otros (B) y de egresos (C).
 
 Al realizar esta resta (A - B -  C) hay tres posibles resultados:
-1. *==Negativo==*. Recorta gastos innecesarios.
-2. ***==Neutral==***. Es justo como debe ser.
-3. **==Positivo==**. Sobra para invertir.
+1. <mark>Negativo</mark>. Recorta gastos innecesarios.
+2. <mark>Neutral</mark>. Es justo como debe ser.
+3. <mark>Positivo</mark>. Sobra para invertir.
 
 ## Los productos financieros
-> [!Los productos financieros]
-> Los [[productos financieros]] son instrumentos que dan la posibilidad de obtener un rendimiento del dinero a través del ahorro e inversión y, generalmente son emitidos por instituciones financieras o bancarias.
+Los [productos financieros](../Productos%20financieros.md) son instrumentos que dan la posibilidad de obtener un rendimiento del dinero a través del ahorro e inversión y, generalmente son emitidos por instituciones financieras o bancarias.
 
 > Necesitas dominar el juego para poder salir de él.
 
@@ -86,13 +88,13 @@ Al realizar esta resta (A - B -  C) hay tres posibles resultados:
 Esta es simplemente una cuenta de ahorro, aunque hay algunas plataformas como NU, DINN, entre otras que te ofrecen un rendimiento en tus cuentas de débito.
 
 ### Tarjetas de crédito
-Estas no deben verse como una extensión de tus ingresos, de lo contrario, puedes endeudarte. Solo gasta lo que ya tienes. Un mal uso de esta puede cambiar tu categoría en el [[Buró de crédito|buró de crédito]]
+Estas no deben verse como una extensión de tus ingresos, de lo contrario, puedes endeudarte. Solo gasta lo que ya tienes. Un mal uso de esta puede cambiar tu categoría en el [buró de crédito](../Buró%20de%20crédito.md).
 
 #### Peligros
 - Intereses (no los pagarás siempre y cuando pagues a tiempo).
 - Endeudamiento. Atrasarse con los pagos.
 - Interés compuesto.
-- Dañar tu [[historial crediticio]].
+- Dañar tu [historial crediticio](../Historial%20crediticio.md).
 
 #### Beneficios
 - *Cashback*.
@@ -136,12 +138,12 @@ Algunos instrumentos que pertenecen a la renta fija son:
 - **Pagarés**.
 - **Bonos**.
 #### Renta variable
-Se trata de inversiones *==cuyo rendimiento no está garantizado==*.
+Se trata de inversiones <mark><strong>cuyo rendimiento no está garantizado</strong></mark>.
 Algunos instrumentos que pertenecen a la renta variable son:
 - **Acciones**. Son pequeños pedazos de compañía que podemos comprar.
 - **Fibras**.  Son fideicomisos de infraestructura y bienes raíces.
 - **ETFs**. Son paquetes (índices) de acciones que puedes adquirir para estar más diversificado.
-- **Criptomonedas**. A diferencia de las otras tres, las criptomonedas son un mercado *no regulado*; al ser un tipo de moneda, no poseen valor debido a que no generan flujos, pero sí tienen un precio. Por otro lado, las acciones, fibras y ETFs son activos que pueden tener un valor, generan ingresos y puedes calcular su [[Valor intrínseco|valor intrínseco]].
+- **Criptomonedas**. A diferencia de las otras tres, las criptomonedas son un mercado *no regulado*; al ser un tipo de moneda, no poseen valor debido a que no generan flujos, pero sí tienen un precio. Por otro lado, las acciones, fibras y ETFs son activos que pueden tener un valor, generan ingresos y puedes calcular su [valor intrínseco](../Valor%20intrínseco.md).
 
 ##  Dinero fácil
 No existe el dinero fácil, rápido y seguro. Es imposible que estas tres condiciones se cumplan a la vez. 

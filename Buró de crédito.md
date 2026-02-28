@@ -1,6 +1,6 @@
 ## ¿Qué es buró de crédito?
 
-Se trata de una entidad autorizada por la Secretaría de Hacienda y Crédito Público (SHCP) que genera informes del [[historial crediticio]] de una persona o empresa en donde se incluye información relacionada con su actividad financiera respecto al crédito, es decir, si es puntual al momento de realizar sus pagos o si comienza a acumular deudas con el crédito. 
+Se trata de una entidad autorizada por la Secretaría de Hacienda y Crédito Público (SHCP) que genera informes del [historial crediticio](Historial%20crediticio.md) de una persona o empresa en donde se incluye información relacionada con su actividad financiera respecto al crédito, es decir, si es puntual al momento de realizar sus pagos o si comienza a acumular deudas con el crédito. 
 
 Toda la información que se encuentra en el Buró de Crédito es confidencial, siendo compartida con entidades financieras afiliadas que la soliciten. Por ejemplo, si quieres obtener un préstamo o un crédito hipotecario, el banco pedirá tu reporte al Buró de Crédito para evaluar si cumples con los requisitos necesarios.
 

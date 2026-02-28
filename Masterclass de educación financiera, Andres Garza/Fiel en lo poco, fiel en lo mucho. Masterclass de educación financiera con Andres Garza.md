@@ -9,7 +9,7 @@
 - El **cuestionamiento** es fundamental para el **crecimiento**.
 - El **dinero** es un *intercambio de valor*.
 - El **conocimiento** es el único activo que nadie puede quitarte.
-- Una buena gestión de riesgos no es evitarlos, sino ==conocer qué riesgos estás tomando==.
+- Una buena gestión de riesgos no es evitarlos, sino <mark>conocer qué riesgos estás tomando</mark>.
 - **No existe** el dinero fácil, rápido y seguro.
 - Mientras no hagas consciente lo inconsciente, lo inconsciente dominará tu vida y le llamarás destino.
 
